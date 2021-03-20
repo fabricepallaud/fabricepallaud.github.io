@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"https:\u002F\u002Ffabricepallaud.com\u002Fnuxt-test\u002Fstatic\u002F1616258585",layout:"default",error:null,serverRendered:true,routePath:a,config:{app:{basePath:a,assetsPath:a,cdnURL:"https:\u002F\u002Ffabricepallaud.com\u002Fnuxt-test\u002F"}}}}("\u002F"));
