@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/omni", {data:[{}],fetch:{},mutations:[]});

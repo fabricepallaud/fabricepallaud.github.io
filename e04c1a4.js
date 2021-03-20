@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{265:function(n,e,t){"use strict";t.r(e);var l={props:{config:{type:Object,default:null}}},c=t(23),component=Object(c.a)(l,(function(){var n=this,e=n.$createElement;return(n._self._c||e)("section",{staticClass:"container"},[n._v("\n  Small banner\n")])}),[],!1,null,null,null);e.default=component.exports}}]);
