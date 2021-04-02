@@ -19,5 +19,6 @@ try {
   $response = $ex;
 }
 
-echo $response;
+// echo $response;
+echo 'TUTU!';
 ?>
